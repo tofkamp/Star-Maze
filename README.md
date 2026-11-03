@@ -25,4 +25,3 @@ It also stops if an instruction would change size between passes (a forward refe
 
 * Names of zero-page variables, routines and tables are my interpretation of the code; unnamed ones keep their address (`&xx`, `L1234`, `sub_1234`).
 * Data that is not understood (for example `&0400-&04FF`) is kept as `EQUB` rows, so the output stays byte exact.
-* The BASIC loader (`STARMAZ`) and the title picture (`TITLPIC`) are not part of this source.
