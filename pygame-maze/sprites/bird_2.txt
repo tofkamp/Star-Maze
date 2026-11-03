@@ -1,0 +1,9 @@
+# bird, wings frame 2, &0A40
+.....wwwww............wwwww.....
+....wwwwwww..........wwwwwww....
+...wwwwwwwww........wwwwwwwww...
+..wwwwwwwwwww.rrrr.wwwwwwwwwww..
+..www...wwwwwrrrrrrwwwww...www..
+.www......wwwryrryrwww......www.
+.ww........wwrrrrrrww........ww.
+.w............rrrr............w.

@@ -1,0 +1,9 @@
+# small boulder, &0F40
+....www.
+..wwwrww
+.wwrrrww
+wwwwrwrw
+wwrrrrww
+.wrwwrww
+.wwwrww.
+...www..

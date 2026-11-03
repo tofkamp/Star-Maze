@@ -1,0 +1,9 @@
+# bird, wings frame 1, &0A00
+.....wwwww............wwwww.....
+...wwwwwwwww..rrrr..wwwwwwwww...
+..wwwwwwwwwwwrrrrrrwwwwwwwwwww..
+.wwwwwwwwwwwwryrryrwwwwwwwwwwww.
+.wwww....wwwwrrrrrrwwww....wwww.
+www...........rrrr...........www
+w..............................w
+................................

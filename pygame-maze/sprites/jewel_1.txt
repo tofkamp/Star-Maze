@@ -1,0 +1,17 @@
+# jewel frame 1, &0FC0
+..wwww....wwww..
+.yrrrr.yy.rrrry.
+wryrr..yy..rryrw
+wrryy......yyrrw
+wrryyyy..yyyyrrw
+wr..yyryyryy..rw
+....yrryyrry....
+.yy..yyrryy..yy.
+.yy..yyrryy..yy.
+....yrryyrry....
+wr..yyryyryy..rw
+wrryyyy..yyyyrrw
+wrryy......yyrrw
+wryrr..yy..rryrw
+.yrrrr.yy.rrrry.
+..wwww....wwww..
